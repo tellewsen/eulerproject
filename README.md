@@ -2,5 +2,8 @@
 Solutions to problems from projecteuler.net
 
 
-kotlinc euler.kt -include-runtime -d euler.jar
-java -jar euler.jar
+Compile and run solutions with 
+```sh
+kotlinc <filename>.kt -include-runtime -d <filename>.jar
+java -jar <filename>.jar
+```

@@ -1,6 +1,6 @@
-"""
-Solves https://projecteuler.net/problem=1
-"""
+/**
+ * Solves https://projecteuler.net/problem=1
+**/
 fun main() {
     val limit = 1000
     val sum = (1 until limit)
